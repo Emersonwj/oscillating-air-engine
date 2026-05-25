@@ -26,6 +26,8 @@ modeling and GD&T drawings to machining and functional testing.
 - Followed engineering drawings for all dimensions and surface finish requirements
 - Assembled and tested the engine, verifying operation against design intent
 
+## Drawing Package
+- [View Assembly Drawing (PDF)](Air Engine Assembly Drawing-combined(1).pdf)
 
 ## Skills Demonstrated
 
