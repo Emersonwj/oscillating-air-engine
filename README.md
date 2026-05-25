@@ -27,8 +27,7 @@ modeling and GD&T drawings to machining and functional testing.
 - Assembled and tested the engine, verifying operation against design intent
 
 ## Drawing Package
-- [View Assembly Drawing (PDF)](Air Engine Assembly Drawing-combined (1).pdf)
-
+[View Drawing  Package (PDF)](<Air Engine Assembly Drawing-combined (1).pdf>)
 ## Skills Demonstrated
 
 SolidWorks · GD&T · Tolerance analysis · Manual machining · Precision assembly · Technical documentation
