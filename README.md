@@ -18,7 +18,7 @@ modeling and GD&T drawings to machining and functional testing.
 - Performed tolerance stack-up analysis on critical mating interfaces to ensure proper
   fit and function
 
-<img src="Air Engine Assembly Drawing.png" width="500">
+<img src="Air Engine Assembled.png" width="500">
 
 ## Manufacturing
 
