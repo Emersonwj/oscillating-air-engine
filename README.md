@@ -3,7 +3,7 @@
 A single-cylinder oscillating pneumatic engine designed, machined, and assembled from scratch
 as part of a mechanical engineering course project at Syracuse University.
 
-![Engine photo](images/engine_assembled.jp)
+![Engine photo](engine_assembled.jpg)
 
 ## Overview
 
