@@ -27,12 +27,6 @@ modeling and GD&T drawings to machining and functional testing.
 - Assembled and tested the engine, verifying operation against design intent
 
 
-## Files
-
-- `/drawings/` — Manufacturing drawings (PDF)
-- `/cad/` — SolidWorks part and assembly files
-- `/analysis/` — Tolerance stack-up spreadsheet
-
 ## Skills Demonstrated
 
 SolidWorks · GD&T · Tolerance analysis · Manual machining · Precision assembly · Technical documentation
